@@ -1,0 +1,4 @@
+[core]
+    remote = mlopsguideremote
+['remote "mlopsguideremote"']
+    url = ../../data
